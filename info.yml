@@ -1,0 +1,14 @@
+project:
+  name: 'Blutest'
+  owner: 'CS169L-23'
+  teamId: '99'
+  identities:
+    pivotal: 'https://www.pivotaltracker.com/n/projects/2630626'
+    heroku: 'https://blutestdoesnotexist.herokuapp.com/'
+  members:
+    member1:
+      name: 'Rtest'
+      surname: 'Ftester' 
+      githubUsername: 'raffrearaUS'
+      pivotalUsername: 'rafaelfresno'
+      herokuEmail: 'blutestmailnotexists@gmail.com'

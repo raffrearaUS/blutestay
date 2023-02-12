@@ -6,7 +6,7 @@ project:
     pivotal:
       url: 'https://www.pivotaltracker.com/n/projects/2630626'
     heroku:
-      url: 'https://blutestdoesnotexist.herokuapp.com'
+      url: 'https://bjc-teacher-tracker-2022.herokuapp.com'
   members:
     member1:
       name: 'Rtest'
